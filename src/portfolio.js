@@ -726,11 +726,7 @@ const publications = {
 const contactPageData = {
   contactSection: {
     title: "Contact Me",
-<<<<<<< HEAD
     profile_image_path: "me.jpg",
-=======
-    profile_image_path: "animated_ashutosh.png",
->>>>>>> aab4b3610362e8b9e566f16ec8420f6062a42fee
     description:
       "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with ML, AI, React, Android, Cloud and Opensource Development.",
   },
