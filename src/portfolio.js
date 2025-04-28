@@ -13,7 +13,7 @@ const seo = {
   og: {
     title: "Gyanendra Sah portfolio",
     type: "website",
-    url: "http://ashutoshhathidara.com/",
+    url: "https://aks98068.github.io/",
   },
 };
 
@@ -26,13 +26,13 @@ const greeting = {
     "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
   resumeLink:
     "https://drive.google.com/file/d/1RGQnVjinDib9dDhh0uyJ5lM2UkQPaBx3/view?usp=drive_link",
-  portfolio_repository: "https://github.com/Gyane-git",
-  githubProfile: "https://github.com/Gyane-git",
+  portfolio_repository: "https://github.com/aks98068/Portfolio",
+  githubProfile: "https://github.com/aks98068",
 };
 
 const socialMediaLinks = [
   /* Your Social Media Link */
-  // github: "https://github.com/Gyane-git",
+  // github: "https://github.com/aks98068",
   // linkedin: "https://www.linkedin.com/in/ashutosh-hathidara-88710b138/",
   // gmail: "gyanee750@gmail.com",
   // gitlab: "https://gitlab.com/ashutoshhathidara98",
@@ -42,7 +42,7 @@ const socialMediaLinks = [
 
   {
     name: "Github",
-    link: "https://github.com/Gyane-git",
+    link: "https://github.com/aks98068",
     fontAwesomeIcon: "fa-github", // Reference https://fontawesome.com/icons/github?style=brands
     backgroundColor: "#181717", // Reference https://simpleicons.org/?q=github
   },
